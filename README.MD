@@ -9,10 +9,10 @@ put these files in this folder:
 
 ## Class Features
 ### All Classes
-- numpad 0 - Item preset A
-- numpad 1 - Item preset B
-- numpad 2 - Item preset C
-- numpad 3 - Item preset D
+- F1 - Item preset A
+- F2 - Item preset B
+- F3 - Item preset C
+- F4 - Item preset D
 - holding A&D or W&S moves you in the last direction you pressed, instead of stopping you
 - j - "need a dispenser here"
 - h - "thanks"
