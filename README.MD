@@ -32,7 +32,8 @@ put these files in this folder:
 - n/a
 
 ### Heavy
-- n/a
+- Mouse4 - eat sandvich
+- Mouse5 - drop sandvich
 
 ### Engineer
 - Mouse3 - Destroy and build sentry
