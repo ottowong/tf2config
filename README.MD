@@ -13,7 +13,6 @@ put these files in this folder:
 - F2 - Item preset B
 - F3 - Item preset C
 - F4 - Item preset D
-- holding A&D or W&S moves you in the last direction you pressed, instead of stopping you
 - j - "need a dispenser here"
 - h - "thanks"
 - f - "spy"
