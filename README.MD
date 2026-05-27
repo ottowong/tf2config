@@ -14,6 +14,10 @@ put these files in this folder:
 - numpad 2 - Item preset C
 - numpad 3 - Item preset D
 - holding A&D or W&S moves you in the last direction you pressed, instead of stopping you
+- j - "need a dispenser here"
+- h - "thanks"
+- f - "spy"
+- k - suicide
 
 ### Scout
 - n/a
