@@ -18,6 +18,7 @@ put these files in this folder:
 - h - "thanks"
 - f - "spy"
 - k - suicide
+- autoreload is switched on (overridden on spy)
 
 ### Scout
 - n/a
@@ -48,3 +49,4 @@ put these files in this folder:
 
 ### Spy
 - Mouse5 - hold to sap
+- autoreload is switched off
