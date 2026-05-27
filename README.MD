@@ -4,12 +4,16 @@ put these files in this folder:
 >\Team Fortress 2\tf\cfg
 
 ## General Features
+- Set viewmodel FOV to 90
+- Use minimal viewmodels
+
+## Class Features
+### All Classes
 - numpad 0 - Item preset A
 - numpad 1 - Item preset B
 - numpad 2 - Item preset C
 - numpad 3 - Item preset D
-
-## Class Features
+- holding A&D or W&S moves you in the last direction you pressed, instead of stopping you
 
 ### Scout
 - n/a
