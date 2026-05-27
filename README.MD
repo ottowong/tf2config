@@ -37,7 +37,7 @@ put these files in this folder:
 - 6 - Destroy and build teleporter exit
 
 ### Medic
-- 4 - Radar (show all friendly players by setting the medic autocall to full health)
+- 4 - hold for radar (show all friendly players by setting the medic autocall to full health)
 
 ### Sniper
 - n/a
