@@ -3,6 +3,12 @@
 put these files in this folder:
 >\Team Fortress 2\tf\cfg
 
+## General Features
+- numpad 0 - Item preset A
+- numpad 1 - Item preset B
+- numpad 2 - Item preset C
+- numpad 3 - Item preset D
+
 ## Class Features
 
 ### Scout
