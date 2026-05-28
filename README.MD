@@ -1,6 +1,6 @@
 # Otto's TF2 Configs
 
-put these files in this folder:
+Put these files in this folder:
 >\Team Fortress 2\tf\cfg
 
 ## General Features
@@ -13,40 +13,52 @@ put these files in this folder:
 - F2 - Item preset B
 - F3 - Item preset C
 - F4 - Item preset D
-- j - "need a dispenser here"
-- h - "thanks"
-- f - "spy"
-- k - suicide
-- autoreload is switched on (overridden on spy)
+- J - "need a dispenser here"
+- H - "thanks"
+- F - "spy"
+- K - suicide
+- Autoreload is switched on (overridden on spy)
 
 ### Scout
-- n/a
+- Hold right click to switch to pistol and shoot
+- Scroll up for scattergun
+- Scroll down for bat
 
 ### Soldier
-- n/a
+- Scroll up for rocket launcher
+- Scroll down for shotgun
 
 ### Pyro
-- n/a
+- Scroll up for flamethrower
+- Scroll down for shotgun/flare gun
 
 ### Demoman
-- n/a
+- Scroll up for grenade launcher
+- Scroll down for stickybomb launcher
 
 ### Heavy
-- Mouse4 - eat sandvich
-- Mouse5 - drop sandvich
+- Scroll up for minigun
+- Scroll down for fists
 
 ### Engineer
 - Mouse3 - Destroy and build sentry
-- 4 - Destroy and build dispenser
-- 5 - Destroy and build teleporter entrance
-- 6 - Destroy and build teleporter exit
+- Shift - Destroy and build dispenser
+- Mouse4 - Destroy and build teleporter entrance
+- Mouse5 - Destroy and build teleporter exit
+- Scroll up for shotgun
+- Scroll down for wrench
 
 ### Medic
 - 4 - hold for radar (show all friendly players by setting the medic autocall to full health)
+- Scroll up for medigun
+- Scroll down for bonesaw
 
 ### Sniper
-- n/a
+- Scroll up for sniper rifle
+- Scroll down for knife
 
 ### Spy
 - Mouse5 - hold to sap
-- autoreload is switched off
+- Autoreload is switched off
+- Scroll up for revolver
+- Scroll down for knife
