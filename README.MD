@@ -13,10 +13,10 @@ Put these files in this folder:
 - F2 - Item preset B
 - F3 - Item preset C
 - F4 - Item preset D
-- J - "need a dispenser here"
-- H - "thanks"
-- F - "spy"
-- K - suicide
+- J - "Need a dispenser here"
+- H - "Thanks"
+- F - "Spy"
+- K - Suicide
 - Autoreload is switched on (overridden on spy)
 
 ### Scout
@@ -49,7 +49,7 @@ Put these files in this folder:
 - Scroll down for wrench
 
 ### Medic
-- 4 - hold for radar (show all friendly players by setting the medic autocall to full health)
+- 4 - Hold for radar (show all friendly players by setting the medic autocall to full health)
 - Scroll up for medigun
 - Scroll down for bonesaw
 
@@ -58,7 +58,7 @@ Put these files in this folder:
 - Scroll down for knife
 
 ### Spy
-- Mouse5 - hold to sap
+- Mouse5 - Hold to sap
 - Autoreload is switched off
 - Scroll up for revolver
 - Scroll down for knife
